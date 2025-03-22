@@ -17,7 +17,7 @@ OnChainVolleyball is a turn-based volleyball game built on Solidity, allowing tw
 
 ## Smart Contract Methods 📝
 ### `startGame(address _player2)`
-- Initiates a new game with two players.
+- Initiates a new game with two players. 
 
 ### `serveBall()`
 - The current player serves the ball to start a rally.
