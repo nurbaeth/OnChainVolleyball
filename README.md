@@ -7,7 +7,7 @@ OnChainVolleyball is a turn-based volleyball game built on Solidity, allowing tw
 - 🎲 **Randomized rally outcomes**: Each return has a chance of failure.
 - 🔥 **First to 15 points wins**: The game ends when a player reaches 15.
 - 🔄 **Turn-based gameplay**: Players must alternate turns.
-
+ 
 ## How It Works ⚙️
 1. **Start a game**: One player calls `startGame(address _player2)`.
 2. **Serve the ball**: The starting player calls `serveBall()`.
