@@ -13,7 +13,7 @@ OnChainVolleyball is a turn-based volleyball game built on Solidity, allowing tw
 2. **Serve the ball**: The starting player calls `serveBall()`.
 3. **Return the ball**: The opponent calls `returnBall()`, with a 50% success rate.
 4. **Score points**: If a return fails, the opponent gains a point.
-5. **Win the game**: The first to 15 points is declared the winner.    
+5. **Win the game**: The first to 15 points is declared the winner.     
 
 ## Smart Contract Methods 📝
 ### `startGame(address _player2)`
